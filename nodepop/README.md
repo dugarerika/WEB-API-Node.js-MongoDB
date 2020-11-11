@@ -23,6 +23,12 @@ npm run start
 npm run dev
 ```
 
+## How to start mongoDB locally for deveploment
+```sh
+./bin/mongod --dbpath ./data/db --directoryperdb
+./bin/mongo
+```
+
 ## Author
 
 👤 **Erika Tavera**
